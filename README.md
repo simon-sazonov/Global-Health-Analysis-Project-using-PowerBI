@@ -1,7 +1,3 @@
-Here's a README file that summarizes the project and its structure based on your report:
-
----
-
 # Global Health Analysis Project
 
 ## Overview
